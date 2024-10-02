@@ -1,0 +1,16 @@
+{
+  "name": "avaliacaofrontend2",
+  "version": "1.0.0",
+  "main": "calculadora.js",
+  "scripts": {
+    "start": "node estoqueDeProduto.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
